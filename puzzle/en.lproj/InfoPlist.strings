@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  puzzle
+
+  Created by Petr Gusakov on 12/09/2019.
+  Copyright © 2019 Petr Gusakov. All rights reserved.
+*/
+NSPhotoLibraryUsageDescription = "To download a game picture you need access to the photo";

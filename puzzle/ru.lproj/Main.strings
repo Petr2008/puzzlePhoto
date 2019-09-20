@@ -1,0 +1,14 @@
+
+/* Class = "UINavigationItem"; title = "Puzzle"; ObjectID = "YoT-YX-ofl"; */
+"YoT-YX-ofl.title" = "Рисунок";
+
+/* Class = "UIBarButtonItem"; title = "Фотоальбом"; ObjectID = "cp3-Cs-Dki"; */
+"cp3-Cs-Dki.title" = "Фотоальбом";
+
+"YxH-gd-DTx.title" = "Фотоальбом";
+
+/* Class = "UIBarButtonItem"; title = "Original"; ObjectID = "vTU-jR-IUW"; */
+"vTU-jR-IUW.title" = "Оригинал";
+
+/* Class = "UIBarButtonItem"; title = "Cut"; ObjectID = "wt1-tx-umr"; */
+"wt1-tx-umr.title" = "Играть";
